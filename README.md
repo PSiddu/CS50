@@ -1,7 +1,7 @@
 # CS50
 These are the programming assignments that I completed throughout the CS50 course offered by Harvard. Each program's description and specifications can be found below.
 
-# Scratch Introduction (Problem Set 0):
+# Problem Set 0 (Scratch):
 scratch.sb3 - https://cs50.harvard.edu/x/2020/psets/0/scratch/<br />
 
 # C Language Problem Sets:
