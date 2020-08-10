@@ -1,5 +1,5 @@
 # CS50
-These are the programming assignments that I completed throughout the CS50 course offered by Harvard.
+These are the programming assignments that I completed throughout the CS50 course offered by Harvard. Each program's description and specifications can be found below.
 
 # Problems completed in C Language:
 
