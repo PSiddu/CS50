@@ -1,7 +1,7 @@
 # CS50
 These are the programming assignments that I completed throughout the CS50 course offered by Harvard. Each program's description and specifications can be found below.
 
-# Problems completed in C Language:
+# C Language Problem Sets:
 
 # Problem Set 1:
 hello.c - https://cs50.harvard.edu/x/2020/psets/1/hello/<br />
