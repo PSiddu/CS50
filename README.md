@@ -7,7 +7,7 @@ An introduction to programming concepts.<br />
 
 # Problem Set 1 (C):
 hello.c - https://cs50.harvard.edu/x/2020/psets/1/hello/<br />
-A simple hello world program in C.
+A simple hello world program in C.<br />
 mario.c - https://cs50.harvard.edu/x/2020/psets/1/mario/more/<br />
 A program that prints a Mario flagpole tower at a height inputted by the user.<br />
 credit.c - https://cs50.harvard.edu/x/2020/psets/1/credit/<br />
