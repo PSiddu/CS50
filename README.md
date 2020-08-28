@@ -3,7 +3,7 @@ These are the programming assignments that I completed throughout the CS50 cours
 
 # Problem Set 0 (Scratch):
 scratch.sb3 - https://cs50.harvard.edu/x/2020/psets/0/scratch/<br />
-An introduction to programming concepts.
+An introduction to programming concepts.<br />
 
 # Problem Set 1 (C):
 hello.c - https://cs50.harvard.edu/x/2020/psets/1/hello/<br />
