@@ -16,3 +16,10 @@ substitution.c - https://cs50.harvard.edu/x/2020/psets/2/substitution/<br />
 # Problem Set 3 (C):
 plurality.c - https://cs50.harvard.edu/x/2020/psets/3/plurality/<br />
 tideman.c - https://cs50.harvard.edu/x/2020/psets/3/tideman/<br />
+
+# Problem Set 4 (C):
+filter - https://cs50.harvard.edu/x/2020/psets/4/filter/more/<br />
+recover.c - https://cs50.harvard.edu/x/2020/psets/4/recover/<br />
+
+# Problem Set 5 (C):
+speller - https://cs50.harvard.edu/x/2020/psets/5/speller/<br />
