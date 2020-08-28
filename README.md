@@ -21,7 +21,9 @@ A program that encrypts a phrase according to a 26-letter key, where the key and
 
 # Problem Set 3 (C):
 plurality.c - https://cs50.harvard.edu/x/2020/psets/3/plurality/<br />
+A program that takes votes of different candidates in a simple election from a user, and outputs the winner.<br />
 tideman.c - https://cs50.harvard.edu/x/2020/psets/3/tideman/<br />
+A program where the user inputs different voter's rankings of election candidates and outputs the winner based on a ranked-style election's rules.<br />
 
 # Problem Set 4 (C):
 filter - https://cs50.harvard.edu/x/2020/psets/4/filter/more/<br />
