@@ -15,7 +15,9 @@ A program that analyses a credit card number and tells the user if it is MasterC
 
 # Problem Set 2 (C):
 readability.c - https://cs50.harvard.edu/x/2020/psets/2/readability/<br />
+This program analyses some user-inputted text and outputs the grade level that the text is at in terms of difficulty to read, doing so by calculating the Coleman-Liau index of the text.<br />
 substitution.c - https://cs50.harvard.edu/x/2020/psets/2/substitution/<br />
+A program that encrypts a phrase according to a 26-letter key, where the key and the text is user-inputted.<br />
 
 # Problem Set 3 (C):
 plurality.c - https://cs50.harvard.edu/x/2020/psets/3/plurality/<br />
