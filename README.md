@@ -27,7 +27,10 @@ A program where the user inputs different voter's rankings of election candidate
 
 # Problem Set 4 (C):
 filter - https://cs50.harvard.edu/x/2020/psets/4/filter/more/<br />
+A photo editing program that applies grayscale, reflection, blur, and edge-detection filters on bitmap images. The edge-detection filter is done using the Sobel operator. <br />
 recover.c - https://cs50.harvard.edu/x/2020/psets/4/recover/<br />
+This program recovers jpeg images from a memory card from which they were deleted.
 
 # Problem Set 5 (C):
 speller - https://cs50.harvard.edu/x/2020/psets/5/speller/<br />
+This program checks a txt file for spelling mistakes by checking them against a large dictionary of words. The dictionary is stored in a hash table and is indexed by a hash function.<br />
