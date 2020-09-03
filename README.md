@@ -34,3 +34,16 @@ This program recovers jpeg images from a memory card from which they were delete
 # Problem Set 5 (C):
 speller - https://cs50.harvard.edu/x/2020/psets/5/speller/<br />
 This program checks a txt file for spelling mistakes by checking them against a large dictionary of words. The dictionary is stored in a hash table and is indexed by a hash function.<br />
+
+# Problem Set 6 (Python):
+hello.py - https://cs50.harvard.edu/x/2020/psets/6/hello/<br />
+A simple hello world program in Python.<br />
+mario.py - https://cs50.harvard.edu/x/2020/psets/6/mario/more/<br />
+Re-implementation of mario.c from Problem Set 1 in Python<br />
+credit.py - https://cs50.harvard.edu/x/2020/psets/6/credit/<br />
+Re-implementation of credit.c from Problem Set 1 in Python<br />
+readability.py - https://cs50.harvard.edu/x/2020/psets/6/readability/<br />
+Re-implementation of readability.c from Problem Set 2 in Python<br />
+dna.py - https://cs50.harvard.edu/x/2020/psets/6/dna/<br />
+Takes a txt file with a person's DNA sample, and compares it against a csv file of DNA data to find a match between the sequence and one of the people in 
+the csv file. Comparison is done by looking at STRs (Short Tandem Repeats) of Adenine, Guanine, Thymine, and Cytosine.
