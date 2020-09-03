@@ -45,5 +45,4 @@ Re-implementation of credit.c from Problem Set 1 in Python<br />
 readability.py - https://cs50.harvard.edu/x/2020/psets/6/readability/<br />
 Re-implementation of readability.c from Problem Set 2 in Python<br />
 dna.py - https://cs50.harvard.edu/x/2020/psets/6/dna/<br />
-Takes a txt file with a person's DNA sample, and compares it against a csv file of DNA data to find a match between the sequence and one of the people in 
-the csv file. Comparison is done by looking at STRs (Short Tandem Repeats) of Adenine, Guanine, Thymine, and Cytosine.
+This program takesakes a txt file with a person's DNA sample, and compares it against a csv file of DNA data to find a match between the sequence and one of the people in the csv file. Comparison is done by looking at STRs (Short Tandem Repeats) of Adenine, Guanine, Thymine, and Cytosine.
